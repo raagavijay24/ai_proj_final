@@ -29,7 +29,7 @@ The system follows a structured orchestration workflow:
 
 ---
 
-# 🚀 Demo Capabilities
+# 🚀 Demo 
 
 ## 1️⃣ General Knowledge & Web Intelligence
 
